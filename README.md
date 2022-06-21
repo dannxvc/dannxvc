@@ -1,7 +1,7 @@
 ## ABOUT ME
 - 👋 Hi, I’m Danna
 - <3 I’m interested in front-end and back-end development 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me dannavila.1809@gmail.com
 
 ## SOCIALS
