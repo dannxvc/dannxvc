@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Danna
 - <3 I’m interested in front-end and back-end development 
 - 🌱 I’m currently learning React.js
-- Mi Portafolio - [@dannxvc]([www.linkedin.com/in/dannxvc](https://dannavila.pages.dev/))
+- Mi Portafolio - [@dannxvc](https://dannavila.pages.dev/)
 
 ## SOCIALS
 - LinkedIn - [@dannxvc](http://www.linkedin.com/in/dannxvc/)
