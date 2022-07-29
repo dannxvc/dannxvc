@@ -5,7 +5,7 @@
 
 
 ## SOCIALS
-- My Portafolio - [@dannxvc](https://dannavila.pages.dev/)
+- My Portafolio - [@dannxvc](https://danna.pages.dev/)
 - LinkedIn - [@dannxvc](http://www.linkedin.com/in/dannxvc/)
 - Gmail - [@dannxvc](dannavila.1809@gmail.com)
 - GitHub - [@dannxvc](https://github.com/dannxvc)
