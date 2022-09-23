@@ -1,8 +1,5 @@
 ## ABOUT ME
-- 👋 Hi, I’m Danna
-- <3 I’m interested in front-end and back-end development 
-- 🌱 I’m currently learning React.js
-
+I am a very passionate software engineering student. I focus my skills on frontend and backend development.
 
 ## SOCIALS
 - My Portafolio - [@dannxvc](https://danna.pages.dev/)
